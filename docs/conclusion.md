@@ -30,7 +30,7 @@
 | `wg-server.conf` | WireGuard сервер на VPS | [wg-server.conf](configs/wg-server.conf) |
 | `wg0.conf` | WireGuard клиент на ВМ | [wg0.conf](configs/wg0.conf) |
 | `docker-compose.yml` | Развёртывание Nextcloud | [docker-compose.yml](configs/docker-compose.yml) |
-| `awg-phone.conf.example` | Пример конфига AmneziaWG для телефона | [phone.conf](configs/awg-phone.conf.example) |
+| `awg-phone.conf.example` | Пример конфига AmneziaWG для телефона | [phone.conf](configs/phone.conf) |
 
 ### 5.3 Рекомендации по эксплуатации
 
