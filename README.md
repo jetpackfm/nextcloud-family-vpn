@@ -36,7 +36,7 @@
 
 ## Архитектура сети
 
-![Схема сети](docs/images/nextcloud-network-diagram.jpg)
+![Схема сети](docs/images/nextcloud-network-diagram.drawio.png)
 
 *Схема сети: глобальный интернет, роутер провайдера, MikroTik, изолированный сервер, VPS и VPN-туннели.*
 
